@@ -32,7 +32,7 @@ class Portfolio extends React.Component {
                   <div className="work-img">
                     <img src={face} alt="" className="img-fluid" />
                   </div>
-                  </a>
+                 
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
@@ -43,6 +43,7 @@ class Portfolio extends React.Component {
                           </span>
                         </div>
                       </div>
+                    
                       <div className="col-sm-4">
                         <a href="https://github.com/celinevalentine/facedetectorfrontend" role="button">
                         <div className="w-like">
@@ -53,6 +54,7 @@ class Portfolio extends React.Component {
                      
                     </div>
                   </div>
+                  </a>
                
                 
               </div>
