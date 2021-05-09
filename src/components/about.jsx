@@ -89,7 +89,7 @@ class About extends React.Component {
                              <p className="pt-3">
                 <a
                   className="btn btn-primary btn js-scroll px-4"
-                  href="https://resume.creddle.io/resume/e6qwhi17kid"
+                  href="https://resume.creddle.io/resume/a27tqq4uqh8"
                   role="button"
                 >
                   My Resume
