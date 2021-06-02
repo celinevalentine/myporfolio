@@ -52,13 +52,9 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "As a tech-savvy online STEM educator, I have been always curious about web applications. I started my first line of code eight years ago when I built a first website for my online classrooms as well as business websites for my family members with WordPress. My problem-solving inclination and curiosity eventually led me to change my career to become a full-time software engineer." 
+            "Full-stack developer with two years of experience in software development at Nteract Tech for Good, Inc. Development and programming skills supplemented with teaching and coaching experience (seven years) and business management and digital marketing work (five years). Comfortable utilizing modern Agile methodologies to track tech projects and communicating with Project Managers. Seeking to use established programming and development skills in an entry-level role at a fast-growing company. Open to employment in the Claremont, CA area or 100% remote work." 
         },
-        {
-          id: "second-p-about",
-          content:
-            "Currently, I am working as a pro bono founding full-stack engineer at nteract, a startup company that helps people improve their social skills with game applications. Meanwhile, I am actively seeking full-time positions as a frontend, backend or full-stack software developer at reputable companies that value applicants with a non-traditional background. "
-        },
+
     
       ]
     };
@@ -89,7 +85,7 @@ class About extends React.Component {
                              <p className="pt-3">
                 <a
                   className="btn btn-primary btn js-scroll px-4"
-                  href="https://drive.google.com/file/d/1aeeERq_-OyaXz5L2SX4yZ1XHSzjVC68d/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1pI1ara5opcqrzazhGquBpLhrnJL2g0Zv/view?usp=sharing"
                   role="button"
                 >
                   My Resume
