@@ -1,6 +1,5 @@
 import React from "react";
-// import myImage from "../img/myImage.png";
-//https://codepen.io/wind_hill/pen/rLAKLx
+
 
 
 class About extends React.Component {
@@ -52,7 +51,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Full-stack developer with two years of experience in software development at Nteract Tech for Good, Inc. Development and programming skills supplemented with teaching and coaching experience (seven years) and business management and digital marketing work (five years). Comfortable utilizing modern Agile methodologies to track tech projects and communicating with Project Managers. Seeking to use established programming and development skills in an entry-level role at a fast-growing company. Open to employment in the Claremont, CA area or 100% remote work." 
+            "Full-stack developer at Hack-CMP and open-source contributor at Hack For LA. Helped a startup company build a full-stack web application from scratch. Diverse backgrounds in teaching experience (seven years), and business management/digital marketing (five years). Comfortable utilizing modern Agile methodologies to collaborate across teams in engineering, design and marketing. Open to employment 100% remote work." 
         },
 
     
@@ -85,7 +84,7 @@ class About extends React.Component {
                              <p className="pt-3">
                 <a
                   className="btn btn-primary btn js-scroll px-4"
-                  href="https://drive.google.com/file/d/1pI1ara5opcqrzazhGquBpLhrnJL2g0Zv/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1w4aF9eAThH5a3MZsBUbI-ajWsZBu_G0t/view?usp=sharing"
                   role="button"
                 >
                   My Resume
