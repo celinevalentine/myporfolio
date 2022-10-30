@@ -1,6 +1,6 @@
 # React-portfolio
 
-portfolio link -> https://celine-valentine.netlify.app/
+portfolio link -> https://celinevalentine.com
 
 ![](test.gif)
 # myporfolio
